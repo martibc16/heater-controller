@@ -17,12 +17,12 @@ The controller has:
 * Atmega 2560 MCU
 
 The result is this PCB:
-![picture](/images/image2.jpg)
-![picture](/images/image3.jpg)
+![picture](/images/image2.png)
+![picture](/images/image3.png)
 
 The analog temperature indicators were replaced by 1-wire sensors. To acomodate these sensors on the existing housing a 3D piece was needed to avoid the sensor being loose. This is a preview of the model:
 
-![picture](/images/image4.jpg)
+![picture](/images/image4.png)
 And this is the result when mounted with the sensor:
 ![picture](/images/image5.jpg)
 
