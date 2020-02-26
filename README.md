@@ -26,9 +26,9 @@ The result is this PCB:
 <clear: both>
 The analog temperature indicators were replaced by 1-wire sensors. To acomodate these sensors on the existing housing a 3D piece was needed to avoid the sensor being loose. This is a preview of the model:
 
-<img src="/images/image4.png" width=500 align=left>
+<img src="/images/image4.png" width=500 align=left></img>
 And this is the result when mounted with the sensor:
-<img src="/images/image5.jpg" width=500 align=left>
+<img src="/images/image5.jpg" width=500 align=left></img>
 
 Finally, this is the photo of the finished model. Apart from the main PCB an auxiliary board has been created to acomodate the screen, the buttons and the programming interface (via FTDI connector). Through the screen you can control the status of the DHW supply (temperature and programmed state). It also gives information on the temperature of the DHW tank and the water temperature of the primary circuit (these are the sensors that are mounted with the 3D piece).
 <img src="/images/image6.jpg" width=500 align=left>
