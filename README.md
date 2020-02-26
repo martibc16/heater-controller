@@ -60,5 +60,7 @@ Here is a photo of the screen's controller:
 
 
 
-
+The programming was made using the Arduino IDE (See code folder)
+The 3d model of the wire holder and the screen cover were made using Fusion360
+The schematic and PCB files were made using EasyEDA software: https://easyeda.com/603mbastida/caleino-v4
 
