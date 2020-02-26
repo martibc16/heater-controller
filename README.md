@@ -24,10 +24,10 @@ The controller has:
 
 The result is this PCB:
 
-<p align="center">
+<p align="left">
   <img width="460" src="/images/image2.png">
 </p>
-<p align="center">
+<p align="right">
   <img width="460" src="/images/image3.png">
 </p>
 <clear: both>
