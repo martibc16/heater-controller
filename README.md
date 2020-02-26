@@ -7,6 +7,10 @@ The heating system at home was initially controlled with simple relays that wher
 
 <img src="/images/image1.jpg" width=500 align=left>
 
+
+
+
+
 The controller is mounted on a DIN box and integrated in the electric panel.
 
 The controller has:
