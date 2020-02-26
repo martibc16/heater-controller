@@ -19,7 +19,7 @@ The controller has:
 * 6 optoisolated  digital outputs for connecting external relays
 * 6 pull-down inputs
 * I2C interface
-* RTC clock
+* DS3231 RTC
 * Atmega 2560 MCU
 
 The result is this PCB:
