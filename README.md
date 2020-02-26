@@ -17,6 +17,7 @@ The controller has:
 * Atmega 2560 MCU
 
 The result is this PCB:
+
 ![picture](/images/image2.png)
 ![picture](/images/image3.png)
 
