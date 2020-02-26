@@ -24,9 +24,7 @@ The controller has:
 
 The result is this PCB:
 
-<p align="left">
-  <img width="200" src="/images/image2.png">
-</p>
+<img src="/images/image2.jpg" width=300 align=left></img>
 <p align="right">
   <img width="200" src="/images/image3.png">
 </p>
