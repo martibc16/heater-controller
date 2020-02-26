@@ -5,7 +5,7 @@ A project to controll a domestic heating system with central heating and DHW
 The heating system at home was initially controlled with simple relays that where commanded by thermostats. This had the problem that the integrated circulating pump would be on even the thermostats where off and so the actuators (that cut the flow of water to the circuit) where off. This is a picture of the heating room before:
 
 ![picture|512x397,50%](/images/image1.jpg)
-<img src="/images/image1.jpg" width=300 align=right>
+<img src="/images/image1.jpg" scale=30 align=right>
 
 The controller is mounted on a DIN box and integrated in the electric panel.
 
