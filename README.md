@@ -27,15 +27,15 @@ The result is this PCB:
 <p align="center">
   <img width="460" src="/images/image2.png">
 </p>
-fd
 <p align="center">
   <img width="460" src="/images/image3.png">
 </p>
 <clear: both>
 The analog temperature indicators were replaced by 1-wire sensors. To acomodate these sensors on the existing housing a 3D piece was needed to avoid the sensor being loose. This is a preview of the model:
 
-
-<img src="/images/image4.png" width=500 align=left></img>
+<p align="center">
+  <img width="460" src="/images/image4.png">
+</p>
 And this is the result when mounted with the sensor:
 <img src="/images/image5.jpg" width=500 align=left></img>
 
