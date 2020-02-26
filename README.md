@@ -22,8 +22,8 @@ The controller has:
 
 The result is this PCB:
 <img src="/images/image2.png" width=500 align=left>
-<img src="/images/image3.png" width=500 align=left>
-
+<img src="/images/image3.png" width=500 align=right>
+<clear: both>
 The analog temperature indicators were replaced by 1-wire sensors. To acomodate these sensors on the existing housing a 3D piece was needed to avoid the sensor being loose. This is a preview of the model:
 
 <img src="/images/image4.png" width=500 align=left>
