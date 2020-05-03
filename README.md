@@ -51,7 +51,7 @@ Finally, this is the photo of the finished model. Apart from the main PCB an aux
 </p>
 
 
-The controller recieves the inputs from the thermostat on the dinning room (it's a normally open contact), the DHW tank temperature and the fireplace located on the dinning room (the input goes through the green pump you see on the first photo) and the actuates on the ouputs which are connected to DIN relays. This gives the safest scenario since only the relays controll AC mains, the whole PCB works with low voltage DC (between 5V and 12V).
+The controller recieves the inputs from the thermostat on the dinning room (it's a normally open contact), the DHW tank temperature and the fireplace located on the dinning room (this is precisely the purpose of the green pump: To circulate the water from the fireplace into the main system) and the actuates on the ouputs which are connected to DIN relays. This gives the safest scenario since only the relays controll AC mains, the whole PCB works with low voltage DC (between 5V and 12V).
 
 Here is a photo of the screen's controller:
 <p align="center">
